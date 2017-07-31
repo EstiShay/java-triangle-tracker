@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/triangletracker.iml" filepath="$PROJECT_DIR$/.idea/modules/triangletracker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/triangletracker_main.iml" filepath="$PROJECT_DIR$/.idea/modules/triangletracker_main.iml" group="triangletracker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/triangletracker_test.iml" filepath="$PROJECT_DIR$/.idea/modules/triangletracker_test.iml" group="triangletracker" />
+    </modules>
+  </component>
+</project>
